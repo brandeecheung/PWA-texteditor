@@ -39,7 +39,7 @@ Before you start, make sure you have the following installed on your machine:
 2. Navigate to the directory where you want to clone the repository.
 3. Run the following command to clone the repository:
    ```bash
-   git clone [your-github-repo-url]
+   git clone [git@github.com:brandeecheung/PWA-texteditor.git]
 
 ## Terminal Commands
 After cloning the repository, navigate to the project directory and run the following commands:
