@@ -55,7 +55,7 @@ npm start
 ```
 
 ## Application Demo 
-[Watch the video](https://www.example.com/video.mp4)
+[Watch the video](https://drive.google.com/file/d/1UL4PbeOb_enxy3vEcjLjya1EpTVRJR50/view?usp=sharing)
 
 ## Functionality
 The text editor allows users to create, edit, and save notes or code snippets. It works offline by storing data using IndexedDB.
@@ -78,3 +78,4 @@ This project is licensed under the MIT License. See the [MIT License](https://op
 
 ## Contributors
 [Visit my github repo for this project here](https://github.com/brandeecheung/PWA-texteditor) 
+[Link to Deployed](https://pwa-texteditor-1-jxc7.onrender.com/) 
